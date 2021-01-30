@@ -1,11 +1,10 @@
 ---
 layout        : post
 title         : 추상클래스와 인터페이스
+date          : 2021.01.03
 category      : Object-Oriented-Programing
 comments      : true
 tags          : [Object-Oriented-Programing, interface, abstract-class]
-date          : 2021-01-30 15:57:00 +0800
-thumbnail     : /style/image/thumbnail.png
 icon          : book
 ---
 

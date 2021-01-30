@@ -1,12 +1,10 @@
 ---
-layout : post
-title : 생성자
-author : bini
-date : 2020.11.12
-category : Object-Oriented-Programing
-description : 만들자, 생성자
-comments : true
-tags : [Object-Oriented-Programing, constructor]
+layout        : post
+title         : 생성자
+date          : 2020.11.12
+category      : Object-Oriented-Programing
+comments      : true
+tags          : [Object-Oriented-Programing, constructor]
 
 
 ---

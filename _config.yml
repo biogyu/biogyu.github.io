@@ -1,11 +1,11 @@
-name: 
-author: 
-url: 
+name: Biogyu's Blog
+author: Biogyu
+url: https://biogyu.github.io
 baseurl: 
 resume_site: 
 description: 
-github_username: 
-github: 
+github_username: biogyu
+github: https://github.io/biogyu
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12

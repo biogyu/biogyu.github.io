@@ -1,10 +1,8 @@
 ---
 layout        : post
 title         : 캡슐화
-author        : bini
 date          : 2020.09.23
 category      : Object-Oriented-Programing
-description   : 객체지향의 3가지 특징중 하나, 캡슐화
 comments      : true
 tags          : [Object-Oriented-Programing, encapsulation]
 ---

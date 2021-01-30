@@ -1,12 +1,10 @@
 ---
-layout : post
-title : 상속
-author : bini
-date : 2020.10.17
-category : Object-Oriented-Programing
-description : 객체지향의 3가지 특징중 둘, 상속
-comments : true
-tags : [Object-Oriented-Programing, inheritance]
+layout        : post
+title         : 상속
+date          : 2020.10.17
+category      : Object-Oriented-Programing
+comments      : true
+tags          : [Object-Oriented-Programing, inheritance]
 ---
 
 

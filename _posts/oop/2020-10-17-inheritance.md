@@ -7,6 +7,8 @@ comments      : true
 tags          : [Object-Oriented-Programing, inheritance]
 ---
 
+* content
+{:toc}
 
 ### 상속
   

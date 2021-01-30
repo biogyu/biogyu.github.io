@@ -8,9 +8,12 @@ tags          : [Object-Oriented-Programing, interface, abstract-class]
 icon          : book
 ---
 
+* content
+{:toc}
+
 ## 추상클래스, 인터페이스
 
-#### 추상클래스와 인터페이스
+### 추상클래스와 인터페이스
 
 &nbsp;너무도 헷갈리는 개념 둘이다. 사실 별로 크게 차이가 나지도 않긴 하지만.
 

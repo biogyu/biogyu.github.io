@@ -9,6 +9,9 @@ tags          : [Object-Oriented-Programing, constructor]
 
 ---
 
+* content
+{:toc}
+
 ### 생성자
 
 &nbsp;객체를 인스턴스화 할 때, 초기 상태를 지정해 주기 위해서 __*생성자*__ &nbsp; 개념을 사용한다. 

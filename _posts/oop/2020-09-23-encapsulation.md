@@ -7,6 +7,9 @@ comments      : true
 tags          : [Object-Oriented-Programing, encapsulation]
 ---
 
+* content
+{:toc}
+
 ### 캡슐화 / Encapsulation
 
 &nbsp;캡슐화는 데이터와 행위를 묶어 객체라는 형태로 만드는 것을 말한다. 앞서 말했던, 객체의 정의와 같다고 생각할 수 있다.

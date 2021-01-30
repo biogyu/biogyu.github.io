@@ -51,7 +51,7 @@ function searchwithTag(){
 
 var checkbox = document.getElementsByClassName('checkbox');
 
-for (var i = 0; checkbox.length; i++){
+for (var i = 0; i < checkbox.length; i++){
     checkbox[i].addEventListener('change', (e)=>{
         if (e.target.checked == true){
             selectTags.push(e.target.id);

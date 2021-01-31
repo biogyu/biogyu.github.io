@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    clientID : 76c20501369ad3d1e635
+    clientSecret : d65e976789f1bb576fb7cbd53b41e9f689808c51
+    repo : https://github.com/biogyu/biogyu.github.io
+    owner : biogyu
+    admin : biogyu
